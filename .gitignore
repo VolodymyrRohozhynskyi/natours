@@ -10,6 +10,7 @@ dist/
 
 # Environment variables
 .env
+config.env
 
 # IDE files
 .vscode/
